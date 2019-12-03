@@ -1,5 +1,5 @@
 # Pilgrims-and-Sheep
-Pilgrims and Sheep word guessing game.
+Pilgrims and Sheep word guessing game built with C++.
 
 ## How to play
 Here's how one round of Pilgrims and Sheep works: The computer picks a mystery word of four to six letters and tells the player how many letters are in the word. The player tries to determine the mystery word by presenting the computer with a series of trial words. Each trial word is a four to six letter word. If the trial word is the mystery word, the player wins. Otherwise, the computer responds to the trial word with two numbers: the number of pilgrims and the number of sheep. Pilgrims and sheep are pairings between a letter in the trial word and the same letter in the mystery word:
