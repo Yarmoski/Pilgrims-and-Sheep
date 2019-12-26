@@ -78,3 +78,6 @@ The main routine sets up the game and calls the playOneRound function to deliver
 	- Randomly select mystery word from word list
   - Call playOneRound using randomly selected word and increment score variables based on its return value
 	- Call printStats
+
+#### Thank you
+Thank you to Dr. Smallberg at UCLA for the starting help!
